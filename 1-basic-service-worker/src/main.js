@@ -16,11 +16,10 @@ const checkRegistration = async () => {
     }
 
     const registration = await navigator.serviceWorker.getRegistration()
-    
+
     if (!registration) return setStatus('No service worker registered')
 
     setStatus('Service Worker is registered!')
-
 }
 
 const register = () => {

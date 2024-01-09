@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 3rem;
+    min-height: 100vh;
+    background: url('bg.jpg')
+}
+
+.box {
+    border: 1px solid white;
+    border-radius: .5rem;
+    padding: 1rem;
+}
+
+.container {
+    width: 720px;
+    margin: 0 auto;
+}
