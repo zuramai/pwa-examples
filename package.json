@@ -1,0 +1,19 @@
+{
+  "name": "pwa-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "1-basic-service-worker"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
