@@ -1,0 +1,14 @@
+{
+    "name": "TicTacToe Game",
+    "short_name": "TicTacToe",
+    "display": "standalone",
+    "id": "tictactoe",
+    "start_url": "http://localhost:1234/",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
